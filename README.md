@@ -26,7 +26,7 @@ This repository contains Google Colab notebooks from a machine learning course, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ml-course-notebooks.git
+   https://github.com/Usaidahmed10/Machine-Learning-Course-Notebooks.git
    ```
 2. Open the desired notebook in Google Colab or any Jupyter notebook environment.
 3. Follow the instructions and execute the cells sequentially.
